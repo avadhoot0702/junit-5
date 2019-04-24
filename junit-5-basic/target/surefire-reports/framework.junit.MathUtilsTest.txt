@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: framework.junit.MathUtilsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.028 s <<< FAILURE! - in framework.junit.MathUtilsTest
+test  Time elapsed: 0.025 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <314.15926535897> but was: <314.1592653589793>
+	at framework.junit.MathUtilsTest.test(MathUtilsTest.java:14)
+
